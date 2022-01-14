@@ -1,22 +1,57 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "SeoS ft. Atsuover and Rageminer",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Headache",
+			"gar",
+			[
+				0,
+				255,
+				133
+			]
+		],
+		[
+			"Nerves",
+			"gartired",
+			[
+				0,
+				255,
+				133
+			]
+		],
+		[
+			"Release",
+			"gardead",
+			[
+				0,
+				255,
+				133
+			]
+		],
+		[
+			"Fading",
+			"gardead",
+			[
+				0,
+				255,
+				133
+			]
+		]
+	],
+	"hideStoryMode": false,
 	"weekCharacters": [
-		"dad",
+		"garcello",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Garcello Week"
 }
